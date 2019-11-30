@@ -12,7 +12,7 @@ sudo apt update\
 sudo apt upgrade\
 sudo apt update\
 sudo apt-get install raspberrypi-ui-mods\
-sudo apt install LXterminal\
+sudo apt install lxterminal\
 sudo apt install tightvncserver\
 export USER=root\
 vncserver\
