@@ -14,4 +14,5 @@ sudo apt install tightvncserver\
 export USER=root\
 vncserver\
 Install firefox If you need\
-sudo apt install firefox-esr\
+sudo apt install firefox-esr
+
