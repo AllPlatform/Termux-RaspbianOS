@@ -7,7 +7,7 @@ GNU/GPL\
 RaspbianOS Using Proot Without Rooted\
 RaspbianOS Support Armhf And Doesn't Support Architecture Aarch64\
 You Can Easy Check Architecture With Commandline uname -m\
-Youtube https://www.youtube.com/channel/UCS6lNcr6OwtB4RLNg38a06Q \
+Guide Install https://youtu.be/pd6SEQ6egGk \
 Install GUI In Raspbian LITE ?\
 sudo apt update\
 sudo apt upgrade\
