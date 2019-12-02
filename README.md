@@ -4,7 +4,7 @@ https://www.raspberrypi.org \
 \
 Allplatform/AkiraYuki\
 GNU/GPL\
-RaspbianOS Using Proot Without Rooted\
+Run RaspbianOS Using Proot Without Rooted On Android \
 RaspbianOS Support Armhf And Doesn't Support Architecture Aarch64\
 You Can Easy Check Architecture With Commandline uname -m\
 Guide Install https://youtu.be/pd6SEQ6egGk \
