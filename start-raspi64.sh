@@ -1,0 +1,1 @@
+unset LD_PRELOAD && proot --link2symlink -0 -r raspi -q qemu-arm-static -b /sdcard -b /dev -b /proc -b raspi/root:/dev/shm -w /root /usr/bin/env -i HOME=/root PATH=/usr/local/sbin:/usr/local/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/games:/usr/local/games TERM=\$TERM LANG=C.UTF-8 /bin/bash --login
