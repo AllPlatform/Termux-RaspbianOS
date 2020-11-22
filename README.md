@@ -6,7 +6,7 @@ Allplatform/AkiraYuki\
 GNU/GPL\
 Run RaspbianOS Using Proot Without Rooted On Android \
 RaspbianOS Support Armhf And Doesn't Support Architecture Aarch64\
-Or Run it Via Qemu-user-static (But Slowly)\
+Or Run it Via Termux arm For aarch64\
 Guide Install https://youtu.be/pd6SEQ6egGk \
 Install GUI In Raspbian LITE ?\
 sudo apt update\
